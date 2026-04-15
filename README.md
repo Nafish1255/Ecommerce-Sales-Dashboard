@@ -33,9 +33,6 @@ Metric	Value
 📦 Total Quantity	5615
 📈 Total Profit	37K
 🧾 Average Order Value	121K
-📸 Dashboard Preview
-
-![image alt](https://github.com/Nafish1255/Ecommerce-Sales-Dashboard/blob/ae4b214365176289a28ddce2cd263ebbc8eb9129/ECOMMERCE%20SALES%20%20POWER%20BI%20DASHBOARD.png)
 
 🔍 Key Insights (Recruiter-Focused)
 📍 Regional Performance
@@ -83,3 +80,7 @@ Personalized marketing
 🧠 DAX – Measures & Calculations
 📁 Excel / CSV Dataset
 🎨 UI/UX Design – Modern dashboard layout
+
+📸 Dashboard Preview
+
+![image alt](https://github.com/Nafish1255/Ecommerce-Sales-Dashboard/blob/ae4b214365176289a28ddce2cd263ebbc8eb9129/ECOMMERCE%20SALES%20%20POWER%20BI%20DASHBOARD.png)
