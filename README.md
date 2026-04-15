@@ -1,6 +1,6 @@
 🛒 Ecommerce-Sales-Dashboard
 Dashboard Link
-https://github.com/Nafish1255/Ecommerce-Sales-Dashboard/blob/main/ECOMMERCE%20SALES%20%20POWER%20BI%20DASHBOARD.png
+![image alt](https://github.com/Nafish1255/Ecommerce-Sales-Dashboard/blob/ae4b214365176289a28ddce2cd263ebbc8eb9129/ECOMMERCE%20SALES%20%20POWER%20BI%20DASHBOARD.png)
 📌 Problem Statement
 
 This dashboard helps the ecommerce business understand its overall performance, customer behavior, and profitability trends. It provides insights into sales distribution, category performance, and payment preferences.
