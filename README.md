@@ -1,44 +1,85 @@
-🛒 Ecommerce-Sales-Dashboard
-Dashboard Link
+🛒 Aniket Ecommerce Sales Dashboard
+
+🚀 A high-impact business intelligence dashboard built to analyze ecommerce performance, uncover profit trends, and enable data-driven decision-making.
+
+📌 Executive Summary
+
+This project demonstrates the ability to transform raw ecommerce data into actionable business insights using Power BI.
+
+The dashboard provides a 360° view of sales, profit, customers, and operations, helping stakeholders identify growth opportunities and inefficiencies.
+
+🎯 Business Problem
+
+Ecommerce businesses generate large volumes of data but often struggle to answer:
+
+Which products generate the most profit?
+Which states drive maximum revenue?
+Why are profits declining in certain months?
+What payment methods do customers prefer?
+
+Without a centralized dashboard, decision-making becomes slow and inaccurate.
+
+💡 Solution
+
+Developed an interactive Power BI dashboard that:
+
+Tracks key performance metrics (Sales, Profit, Quantity, AOV)
+Identifies high-performing regions and products
+Highlights profit fluctuations and loss periods
+Analyzes customer and payment behavior
+📊 Key KPIs
+Metric	Value
+💰 Total Sales	438K
+📦 Total Quantity	5615
+📈 Total Profit	37K
+🧾 Average Order Value	121K
+📸 Dashboard Preview
+
 ![image alt](https://github.com/Nafish1255/Ecommerce-Sales-Dashboard/blob/ae4b214365176289a28ddce2cd263ebbc8eb9129/ECOMMERCE%20SALES%20%20POWER%20BI%20DASHBOARD.png)
-📌 Problem Statement
 
-This dashboard helps the ecommerce business understand its overall performance, customer behavior, and profitability trends. It provides insights into sales distribution, category performance, and payment preferences.
+🔍 Key Insights (Recruiter-Focused)
+📍 Regional Performance
+Maharashtra is the top revenue-generating state
+Strong concentration of sales in a few regions → opportunity for expansion
+📦 Category Analysis
+Clothing contributes ~63% of total quantity
+Electronics & Furniture lag behind
 
-Through this dashboard, the business can identify:
+👉 Business should diversify revenue streams
 
-High-performing states and categories Customer purchase patterns Profit fluctuations over time Preferred payment methods
+💳 Payment Behavior
+Cash on Delivery (44%) dominates
+Digital payments (UPI, Cards) are underutilized
 
-Since profit shows fluctuations across months and some periods indicate losses, the company must focus on improving operational efficiency and cost management.
+👉 Opportunity to incentivize prepaid transactions
 
-🧭 Steps Followed Step 1: Loaded dataset into Power BI Desktop (CSV/Excel file) Step 2: Opened Power Query Editor and checked: Column distribution Column quality Column profile Step 3: Enabled profiling for the entire dataset Step 4: Cleaned data (handled nulls, removed inconsistencies) Step 5: Created KPIs: Total Sales Amount Total Quantity Total Profit Average Order Value (AOV) Step 6: Applied dashboard theme and styling Step 7: Added slicers for filtering: Quarter selection Category filter Step 8: Built visualizations: Bar chart → Sales by State Donut chart → Quantity by Category Column chart → Monthly Profit Trend Bar chart → Profit by Sub-category Bar chart → Sales by Customer Donut chart → Payment Mode Distribution Step 9: Designed layout using shapes, titles, and formatting Step 10: Published report to Power BI Service 📊 Dashboard Snapshot
+📉 Profit Trends
+Profit fluctuates significantly across months
+Some months show negative profit (loss)
 
-https://github.com/Nafish1255/Ecommerce-Sales-Dashboard/blob/main/ECOMMERCE%20SALES%20%20POWER%20BI%20DASHBOARD.png
+👉 Indicates issues in:
 
-📈 Insights
-
-A single-page interactive dashboard was created to analyze ecommerce performance.
-
-[1] Overall Metrics Total Sales Amount: 438K Total Quantity Sold: 5615 Total Profit: 37K Average Order Value (AOV): 121K [2] Category Analysis Clothing contributes ~63% of total quantity Electronics contributes ~21% Furniture contributes ~17%
-
-👉 Clothing is the dominant category in sales volume
-
-[3] State-wise Sales Maharashtra generates the highest revenue Followed by Madhya Pradesh and Uttar Pradesh
-
-👉 Focus marketing efforts on top-performing regions
-
-[4] Payment Mode Analysis COD: 44% (highest) UPI: 21% Debit Card: 13% Credit Card: 12% EMI: 10%
-
-👉 COD dominates → opportunity to push prepaid payments
-
-[5] Monthly Profit Trends Profit varies significantly across months Some months show negative profit (loss)
-
-👉 Indicates need for cost optimization and pricing strategy
-
-[6] Sub-Category Profit Printers generate highest profit Bookcases and Sarees also perform well Tables and Accessories contribute less
+Pricing strategy
+Cost management
+Seasonal demand
+🧠 Product Profitability
+Printers & Bookcases generate highest profit
+Tables & Accessories underperform
 
 👉 Focus on high-margin products
 
-[7] Customer Insights Top customers contribute significantly to revenue Revenue distribution is uneven across customers
+👥 Customer Insights
+Revenue is concentrated among top customers
+Long-tail customers contribute less
 
-👉 Opportunity for loyalty programs & retention strategies
+👉 Opportunity for:
+
+Loyalty programs
+Personalized marketing
+
+🛠️ Tech Stack
+📊 Power BI Desktop – Dashboard Development
+🔄 Power Query – Data Cleaning & Transformation
+🧠 DAX – Measures & Calculations
+📁 Excel / CSV Dataset
+🎨 UI/UX Design – Modern dashboard layout
